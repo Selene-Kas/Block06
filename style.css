@@ -1,0 +1,75 @@
+/** CSS for the main header of the page */
+h1 {
+    color: rgb(65, 150, 165);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: center;  
+}
+
+.pantry {
+    width: 440px;
+    display: block;
+    background-color: rgb(246, 234, 218);
+    border: 2px solid black;
+    margin: 50px 10px 0px 10px;
+}
+
+.canned {
+    display: inline-block;
+    background-color: rgb(206, 206, 206);
+    padding: 10px;
+    width: 180px;
+    height: 150px;
+    border: 5px solid rgb(206, 206, 206);
+    margin: 10px;
+}
+
+.dry {
+    display: inline-block;
+    background-color: rgb(206, 206, 206);
+    padding: 10px;
+    width: 180px;
+    height: 150px;
+    border: 5px solid rgb(206, 206, 206);
+    margin: 10px;
+
+}
+
+.pantryImg {
+    display: inline-block;
+    padding: 10px 10px 10px 0px;
+    margin: 10px;
+}
+
+.freezer {
+    width: 440px;
+    display: block;
+    background-color : rgb(246, 234, 218);
+    border: 2px solid black;
+    margin: 50px 10px 0px 10px;  
+}
+
+.veggies {
+    display: inline-block;
+    background-color: rgb(206, 206, 206);
+    padding: 10px 10px 10px 10px;
+    width: 180px;
+    height: 150px;
+    border: 5px solid rgb(206, 206, 206);
+    margin: 10px;
+}
+
+.snacks {
+    display: inline-block;
+    background-color: rgb(206, 206, 206);
+    padding: 10px 10px 10px;
+    width: 180px;
+    height: 150px;
+    border: 5px solid rgb(206, 206, 206);
+    margin: 10px;
+}
+
+.freezerImg {
+    display: inline-block;
+    padding: 10px 10px 10px 0px;
+    margin: 10px;     
+}
